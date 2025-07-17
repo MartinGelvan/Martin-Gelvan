@@ -1,0 +1,5 @@
+Ir al PostMan y en Headers poner en Key "Content-Type" y en Value poner "application/json"
+
+y para el GET y POST es la misma URL:
+
+http://localhost:8080/vuelos
